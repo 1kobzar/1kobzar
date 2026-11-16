@@ -1,16 +1,14 @@
-## Hi there 👋
+### Привет! Я 1Kobzar 👋
 
-<!--
-**1kobzar/1kobzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий разработчик, который любит превращать идеи в работающие и понятные программы для обычных пользователей.
 
-Here are some ideas to get you started:
+> [!NOTE]
+> Моя главная цель — создавать легкие, быстрые и удобные инструменты без лишних наворотов. Сейчас я активно развиваю свой первый публичный проект **[DriverScanner Pro](https://github.com)** и с каждым обновлением делаю его лучше.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Мой текущий стек и инструменты
+**`Python 3`** • **`Windows Desktop`** • **`Inno Setup`** • **`Git & GitHub`**
+
+#### 🚀 Над чем работаю сейчас
+* Развиваю **DriverScanner Pro** — утилиту для быстрого поиска драйверов и установленного ПО на ПК.
+* Изучаю новые подходы к оптимизации кода и созданию удобных интерфейсов.
+* Открыт к советам, предложениям и обратной связи по моим проектам!
